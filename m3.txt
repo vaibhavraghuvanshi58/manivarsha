@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>form element</title>
+</head>
+<body>
+<form>
+<table align="center">
+<body>
+<tr>
+<td Col span="2"><3>student registration form </h3></td>
+</tr>
+<tr>
+<td><label for="username">name</label></td>
+<td><input id="username" type="text"/></td>
+</tr>
+<tr>
+<td><label for="password" type="password"/></td>
+</tr>
+<tr>
+<td>Gender</td>
+<td>
+<input type="radio" value="Male" name="gender"/>Male <br>
+<input type="radio" value="Female" name="gender"/>Female <br/>
+<input type="radio" value="Transgender" name="gender"/>Transgender <br/>
+</td>
+</tr>
+<tr>
+<td>Country</td>
+<td>
+<select>
+<option>India</option>
+<option>Pakistan</option>
+<option>Australia</option>
+<option>IRANI</option>
+<option>England</option>
+</select>
+</td>
+</tr>
+<tr>
+<td col span ="2">
+<input type = "submit" value = "Register my Data">
+<input type = "reset" value = "Reset my Data">
+</td>
+</tr>
+</body>
+</table>
+</form>
+</html>
+
+
+
+
+
