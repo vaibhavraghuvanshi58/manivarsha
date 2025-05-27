@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>button demo</title>
+    </head>
+    <body>
+        <form name="frm1">
+            
+            <input type="submit" name="s" value="SUBMIT">
+            <input type="reset" name="C" value="RESET">
+            <input type="button" name="B" value="CLICK">
+        </form>
+    </body>
+</html>
