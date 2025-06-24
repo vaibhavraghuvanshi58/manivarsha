@@ -12,3 +12,42 @@
         </form>
     </body>
 </html>
+
+
+
+operators categories
+all the operators we discussed above can be categarised into folloeing categories 
+* unary prefix operators which precede a single operand 
+* binary operators which precede a singe operand 
+* the conditional operator (a ternary operator)which takes three operands and evaluates either 
+the second or third exprations, depression on the evaluation eithers the second or thired 
+expression depression on the evaluation of the first expression 
+* assignment operors which a value to a variable
+* precedence of second or third expression, on the evaluation of the first expression.
+* assignment operators which assign a value to a variable
+* precedence of php operators determines the grouping of terms of terms in an expression the  
+this affects how an expression is evaluate certain operators have higher precedence than others 
+for expression in evaluated certain operatiors have higher precedence than others 
+for example the multiplication operator had higher has higher precedence than the addition operator 
+for example = 7+3 *2 here get x is assigned not vecause operator has higher precedence 
+than so it first get multiplied with 3*2 and then adds into 
+
+
+need of android
+android market is the techno based and fastest growing market in the word you can eddortlesslyy get 
+almost any software you wish for in the android market the ready or available software to run on 
+your android and thus making that your phone eill have more functionality and thus making it conveniect to use.
+2 custpmization 
+android offers the bes in terms of end user ecperience mainly because of the extent that of end user
+ experience mainlu because of the ectent that one can customize his phone android is opec source 
+software this means that anybody with programmun skills can create appearance of your phone or table
+3 rooting 
+exapansin of the scope of functionality of your phone and boosts its performance multipale times 
+over by rooting devices makes it possible for you to change system files in your device and thue enabling you 
+4 the android community 
+this is one the major reasons which define need of android device you will ever make necessary help and support the limitless 
+support to help you get the best out of your device the limitless fours blogs websites and guides 
+written by experts will go a long websites and guides written by experts will go a long way in boosting your experience as a user 
+
+
+  
